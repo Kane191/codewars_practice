@@ -1,0 +1,7 @@
+The Regex
+
+\s is the regex for "whitespace", and g is the "global" flag, meaning match ALL \s (whitespaces). 
+
+More explanation:
+
+https://stackoverflow.com/questions/5964373/is-there-a-difference-between-s-g-and-s-g
